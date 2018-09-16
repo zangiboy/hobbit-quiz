@@ -1,0 +1,17 @@
+body {
+  font-family: 'Spectral', serif;
+}
+
+fieldset {
+  display:block;
+  border-width:4px;
+  border-style:solid;
+  border-color: #4c833b;
+  margin-left:2px;
+  margin-right:2px;
+  padding-top:0.35em;
+  padding-bottom: 0.625em;
+  padding-left:0.75em;
+  padding-right:0.75em;
+  border-radius: 15px;
+}
